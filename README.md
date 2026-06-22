@@ -27,7 +27,7 @@ This project analyses customer behaviour, spending patterns, and conversion usin
 
 ## Projects
 
-### Homework 1 — Exploratory Data Analysis (`hw_1_projectSalma.ipynb`)
+### Homework 1: Exploratory Data Analysis (`hw_1_projectSalma.ipynb`)
 - Merging and querying multiple datasets with pandas
 - Segmenting customers by country, gender, and product category
 - Visualising purchase value trends across years and categories
@@ -37,7 +37,7 @@ This project analyses customer behaviour, spending patterns, and conversion usin
 
 ---
 
-### Homework 2 — Statistical Testing (`hw_2_projectSalma.ipynb`)
+### Homework 2: Statistical Testing (`hw_2_projectSalma.ipynb`)
 - Independent samples t-tests comparing customer segments
 - Chi-square tests for categorical associations
 - Pearson correlation analysis
