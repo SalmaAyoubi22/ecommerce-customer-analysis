@@ -4,9 +4,18 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scipy](https://img.shields.io/badge/scipy-003366?style=flat-square&logo=scipy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-003366?style=flat-square&logo=tableau&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-0a3d62?style=flat-square)
 
-Exploratory data analysis and statistical testing on a multi-dataset e-commerce platform (ShopNow).
+Exploratory data analysis, statistical testing, and interactive dashboard on a multi-dataset e-commerce platform (ShopNow).
+
+---
+
+## Live Dashboard
+
+**[Customer & Marketing Insights Dashboard — View on Tableau Public](https://public.tableau.com/app/profile/salma.ayoubi/viz/CustomerMarketingInsightsDashboard/CustomerMarketingInsightsDashboard?publish=yes)**
+
+Built in Tableau — includes customer age distribution, time on site by device, marketing campaign performance, and revenue by product category. Fully interactive with product category filters.
 
 ---
 
@@ -43,6 +52,7 @@ This project analyses customer behaviour, spending patterns, and conversion usin
 - Statistical testing: t-test, chi-square, Pearson correlation
 - Data merging, groupby aggregation, segmentation
 - Business-oriented insight writing
+- Tableau (interactive dashboard)
 
 ---
 
